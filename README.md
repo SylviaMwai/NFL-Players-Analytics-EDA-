@@ -32,3 +32,12 @@ This analysis aims to:
 Key goals include:
 
 • Identifying **position-specific physical patterns**
+
+• Providing a **visual profile** of player attributes
+
+• Highlighting potential **outliers or unique cases**
+
+• Building a **strong foundation** for future predictive modelling tasks (e.g., injury risk, performance, or draft value)
+
+This project is valuable in building domain familiarity and data storytelling for aspiring sports data scientists.
+
