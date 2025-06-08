@@ -8,3 +8,27 @@ In the world of professional American football, understanding players' **physica
 This project explores the **NFL player dataset** to uncover patterns in player profiles, including physical measurements, age, and educational background. Such exploratory analysis helps establish a baseline understanding of the kinds of athletes who succeed in different positions, which schools produce NFL talent, and how positions vary regarding player size and age.
 
 This type of analysis also supports **sports scientists, coaches, and analysts** in:
+
+• Comparing physical attributes across positions
+
+• Identifying outliers or unique players
+
+• Understanding talent pipelines (e.g., top colleges)
+
+#### b) OBJECTIVES
+
+The main objective of this project is to perform a thorough **Exploratory Data Analysis (EDA)** of NFL players using structured, interpretable visual and statistical tools.
+
+This analysis aims to:
+
+• Understand the **distribution of player positions**
+
+• Examine **average height and weight** and how they vary by position
+
+• Calculate player **ages** from birthdates
+
+• Analyze the **educational background** by identifying colleges producing the most NFL athletes
+
+Key goals include:
+
+• Identifying **position-specific physical patterns**
